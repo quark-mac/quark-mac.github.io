@@ -92,13 +92,6 @@
 
   
   <url>
-    <loc>https://quark-mac.github.io/tags/hexo/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://quark-mac.github.io/tags/NAS/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,17 +105,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://quark-mac.github.io/tags/hexo/</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://quark-mac.github.io/categories/hexo/</loc>
+    <loc>https://quark-mac.github.io/categories/NAS/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://quark-mac.github.io/categories/NAS/</loc>
+    <loc>https://quark-mac.github.io/categories/hexo/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
